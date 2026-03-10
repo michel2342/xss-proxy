@@ -1,6 +1,6 @@
 # xss-proxy
 
-An HTTP proxy that routes all traffic through a browser hooked via XSS. The victim's browser executes every request with its own cookies and session, making this useful for authorized penetration testing of authenticated web applications.
+An HTTP proxy that routes all traffic through a browser hooked via XSS. The victim's browser executes every request with its own cookies and session.
 
 ## How it works
 
